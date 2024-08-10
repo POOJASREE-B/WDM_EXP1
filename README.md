@@ -53,6 +53,16 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+EMPLOYEE:
+![Screenshot 2024-08-10 112742](https://github.com/user-attachments/assets/f924babb-805b-4457-94ba-f80ea6004dab)
+
+
+
+
+
+WEATHER:
+![Screenshot 2024-08-10 112547](https://github.com/user-attachments/assets/f1dc4aec-e52b-480e-b4f5-9a25ba181b6e)
+
 
 
 
@@ -76,10 +86,15 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 EMPLOYEE:
+
 ![Screenshot 2024-08-10 120850](https://github.com/user-attachments/assets/9c27765b-973b-47c6-bdc0-82eff410f260)
 
 
+
+
+
 WEATHER:
+
 ![Screenshot 2024-08-10 115935](https://github.com/user-attachments/assets/f0d52e5d-e226-42e9-9ac4-99990ca13be8)
 
 
@@ -99,8 +114,17 @@ WEATHER:
 
 ### OUTPUT:
 EMPLOYEE:
+
+
 ![Screenshot 2024-08-10 120942](https://github.com/user-attachments/assets/a847d0fe-e7cb-4aeb-aba6-f979bd4f524c)
+
+
+
+
+
 WEATHER:
+
+
 ![Screenshot 2024-08-10 120058](https://github.com/user-attachments/assets/d88bf07f-62d2-4d05-8ee3-04c6ed499bdd)
 
 
@@ -120,8 +144,17 @@ WEATHER:
 
 ### OUTPUT:
 EMPLOYEE:
+
+
 ![Screenshot 2024-08-10 121108](https://github.com/user-attachments/assets/2ef69be0-93b3-48e2-a4e8-7bcf7c117478)
+
+
+
+
+
 WEATHER:
+
+
 ![Screenshot 2024-08-10 120609](https://github.com/user-attachments/assets/6c3db20c-e859-441a-9cfd-ba15e7ff15f0)
 
 

@@ -54,13 +54,16 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 EMPLOYEE:
+
 ![Screenshot 2024-08-10 112742](https://github.com/user-attachments/assets/f924babb-805b-4457-94ba-f80ea6004dab)
 
 
 
 
 
+
 WEATHER:
+
 ![Screenshot 2024-08-10 112547](https://github.com/user-attachments/assets/f1dc4aec-e52b-480e-b4f5-9a25ba181b6e)
 
 
